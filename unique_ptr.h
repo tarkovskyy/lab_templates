@@ -31,7 +31,7 @@ public:
     // =================== Observers ===============================
 
     T*       get();
-    const T* get() const;;
+    const T* get() const;
 
     explicit operator bool() const;
 
